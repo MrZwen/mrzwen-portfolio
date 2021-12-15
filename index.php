@@ -7,7 +7,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:wght@700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
-    <title>PORTFOLIO</title>
+    <title>Portfolio</title>
 </head>
 <body>
     <nav>
@@ -17,6 +17,8 @@
             <ul class="slide">
                 <li class=""><a href="">PROFILE</a></li>
                 <li class=""><a href="">ABOUT</a></li>
+                <li><a href="">PROJECT</a></li>
+                <li><a href="">CONTACT</a></li>
                 <li><a href="">PROJECT</a></li>
                 <li><a href="">CONTACT</a></li>
             </ul>
