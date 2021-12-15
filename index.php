@@ -15,10 +15,8 @@
             <h4>PORTFOLIO</h4>
         </div>
             <ul class="slide">
-                <li class=""><a href="">PROFILE</a></li>
-                <li class=""><a href="">ABOUT</a></li>
-                <li><a href="">PROJECT</a></li>
-                <li><a href="">CONTACT</a></li>
+                <li><a href="">PROFILE</a></li>
+                <li><a href="">ABOUT</a></li>
                 <li><a href="">PROJECT</a></li>
                 <li><a href="">CONTACT</a></li>
             </ul>
