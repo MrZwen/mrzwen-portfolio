@@ -19,7 +19,6 @@
                 <li><a href="">ABOUT</a></li>
                 <li><a href="">PROJECT</a></li>
                 <li><a href="">CONTACT</a></li>
-                <li><a href="">TEST</a></li>
             </ul>
 
             <div class="menu-toggle">
