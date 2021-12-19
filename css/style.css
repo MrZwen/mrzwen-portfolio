@@ -8,19 +8,26 @@ body{
     overflow-x: hidden;
 }
 
+:root
+{
+    ---white : #fff;
+    ---black: rgb(0, 0, 0);
+}
+
 nav .logo{
     font-family: 'Pacifico', cursive;
     letter-spacing: 3px;
 }
 
 nav{
-    background-color: #3722ad;
+    background-color: var(---white);
     display: flex;
     justify-content: space-around;
     /* padding: 20px 0; */
     color: rgb(250, 250, 250);
     height: 50px;
     align-items: center;
+    border-bottom: 1px solid rgba(0, 0, 0, 0, 0.5)
 }
 
 nav ul{
@@ -31,7 +38,7 @@ nav ul{
 }
 
 nav ul li a {
-    color: rgb(247, 247, 247);
+    color: var(---black);
     text-decoration: none;
     font-size: 0.8em;
 }
