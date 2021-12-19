@@ -28,7 +28,7 @@ nav{
     color: var(--black);
     height: 50px;
     align-items: center;
-    border-bottom: 1px solid rgba(0, 0, 0, 0, 0.5)
+    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
 }
 
 nav ul{
