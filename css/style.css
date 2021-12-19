@@ -10,8 +10,9 @@ body{
 
 :root
 {
-    ---white : #fff;
-    ---black: rgb(0, 0, 0);
+    --white : #fff;
+    --black: rgb(0, 0, 0);
+    --blue: #3722ad;
 }
 
 nav .logo{
@@ -20,7 +21,7 @@ nav .logo{
 }
 
 nav{
-    background-color: var(---white);
+    background-color: var(--white);
     display: flex;
     justify-content: space-around;
     /* padding: 20px 0; */
